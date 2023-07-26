@@ -6,7 +6,7 @@ alexgathuri/OPTICA-Automations
 Branch delays Notebook
 
 The note book shows the delayed identifiers and Sent to Hq.
-The purpose of the report is to identify the Branche's weakneses
+The purpose of the report is to identify the Branch's weakneses
 
 # Author(s) information
 Alex Gathuri
